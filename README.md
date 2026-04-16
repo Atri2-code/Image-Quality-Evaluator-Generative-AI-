@@ -1,4 +1,4 @@
-# image-quality-evaluator (Generative AI)
+# Image-quality-evaluator (Generative AI)
 
 > No-reference and full-reference image quality evaluation for generative model outputs.
 
